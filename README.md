@@ -3,7 +3,7 @@
 
 This program enables a user to input a file into our webapp. We execute the file in an AWS virtual machine instance and generate a log file of the running processes in the executable. The log file is generated on the screen to help experienced developers make an informed decision.
 
-Created by Neal, Gautam, Sahil, and Rishi
+Created and maintained by Gautam and Sahil
 
 ## Why Did We Make This Developer Tool?
 
@@ -24,4 +24,3 @@ Information security is vital for corporations and government partners. Using op
 ## What Metrics Do You Receive?
 * Static Analysis to search for potentially harmful strings, such https requests
 * Information about process(es) created after running the exec
-
