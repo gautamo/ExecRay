@@ -22,5 +22,4 @@ Information security is vital for corporations and government partners. Using op
 1. Run main.py
 
 ## What Metrics Do You Receive?
-* Static Analysis to search for potentially harmful strings, such https requests
-* Information about process(es) created after running the exec
+* Some metrics accounted for include external process creation, hardware resources consumed, network activity (opened ports and REST API verbs), database connections, and system files and registry modification.
