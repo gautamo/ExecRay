@@ -3,7 +3,7 @@
 
 This program enables a user to input a file into our webapp. We execute the file in an AWS virtual machine instance and generate a log file of the running processes in the executable. The log file is generated on the screen to help experienced developers make an informed decision.
 
-Created and maintained by Gautam and Sahil
+Created and maintained by Gautam and Sahil.
 
 ## Why Did We Make This Developer Tool?
 
